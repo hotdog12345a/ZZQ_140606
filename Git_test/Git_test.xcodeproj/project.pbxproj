@@ -13,6 +13,7 @@
 		D64EE7F41D06CEF600677DE9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D64EE7F21D06CEF600677DE9 /* Main.storyboard */; };
 		D64EE7F61D06CEF600677DE9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D64EE7F51D06CEF600677DE9 /* Assets.xcassets */; };
 		D64EE7F91D06CEF600677DE9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D64EE7F71D06CEF600677DE9 /* LaunchScreen.storyboard */; };
+		D64EE8021D06D2A100677DE9 /* NEWViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D64EE8011D06D2A100677DE9 /* NEWViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		D64EE7F51D06CEF600677DE9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D64EE7F81D06CEF600677DE9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D64EE7FA1D06CEF600677DE9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D64EE8001D06D2A100677DE9 /* NEWViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NEWViewController.h; sourceTree = "<group>"; };
+		D64EE8011D06D2A100677DE9 /* NEWViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NEWViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				D64EE7ED1D06CEF600677DE9 /* AppDelegate.m */,
 				D64EE7EF1D06CEF600677DE9 /* ViewController.h */,
 				D64EE7F01D06CEF600677DE9 /* ViewController.m */,
+				D64EE8001D06D2A100677DE9 /* NEWViewController.h */,
+				D64EE8011D06D2A100677DE9 /* NEWViewController.m */,
 				D64EE7F21D06CEF600677DE9 /* Main.storyboard */,
 				D64EE7F51D06CEF600677DE9 /* Assets.xcassets */,
 				D64EE7F71D06CEF600677DE9 /* LaunchScreen.storyboard */,
@@ -152,6 +157,7 @@
 				D64EE7F11D06CEF600677DE9 /* ViewController.m in Sources */,
 				D64EE7EE1D06CEF600677DE9 /* AppDelegate.m in Sources */,
 				D64EE7EB1D06CEF600677DE9 /* main.m in Sources */,
+				D64EE8021D06D2A100677DE9 /* NEWViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
