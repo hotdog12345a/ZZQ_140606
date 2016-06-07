@@ -1,12 +1,5 @@
-<<<<<<< HEAD
 platform:ios,'8.0'
 target "Git_test" do
 pod 'AFNetworkActivityLogger', '~> 2.0.4'
-end
-=======
-platform :ios, '8.0'
-target "Git_test" do
 pod 'FMDB', '~> 2.6.2'
 end
-
->>>>>>> f73e590342ce288b0d8ae81163aff8f4570f2f5c
