@@ -1,0 +1,4 @@
+platform:ios,'8.0'
+target "Git_test" do
+pod 'AFNetworkActivityLogger', '~> 2.0.4'
+end
